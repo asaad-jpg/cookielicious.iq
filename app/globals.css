@@ -558,15 +558,15 @@ html[data-theme="dark"] .brand-mini {
 }
 
 .category,
-.
+.product-id {
+  margin-top: 10px;
+  color: #666;
+  font-size: 15px;
+}
 
 html[data-theme="dark"] .category,
 html[data-theme="dark"] .product-id {
   color: #888;
-}product-id {
-  margin-top: 10px;
-  color: #666;
-  font-size: 15px;
 }
 
 .price-stack {
